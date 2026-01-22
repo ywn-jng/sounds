@@ -1,1 +1,29 @@
+{ 
+  "Haegeum": "sounds/Haegeum/Haegeum_18.wav",
+  "Haegeum": "sounds/Haegeum/Haegeum_19.wav",
+  "Haegeum": "sounds/Haegeum/Haegeum_3.wav",
+  "Haegeum": "sounds/Haegeum/Haegeum_9.wav",
+  
+  "Janggu": "sounds/Janggu/Janggu_1_1.wav",
+  "Janggu": "sounds/Janggu/Janggu_2_1.wav",
+  "Janggu": "sounds/Janggu/Janggu_3_1.wav",
+  "Janggu": "sounds/Janggu/Janggu_4_1.wav",
+  "Janggu": "sounds/Janggu/Janggu_7.wav",
+  "Janggu": "sounds/Janggu/Janggu_8.wav",
 
+  "Jing": "sounds/Jing/Jing_1.wav",
+  "Jing": "sounds/Jing/Jing_2.wav",
+  "Jing": "sounds/Jing/Jing_3.wav",
+  "Jing": "sounds/Jing/Jing_4.wav",
+
+  "Kkwaenggwari": "sounds/Kkwaenggwari/Kkwaenggwari_2_1.wav",
+  "Kkwaenggwari": "sounds/Kkwaenggwari/Kkwaenggwari_6_1.wav",
+  "Kkwaenggwari": "sounds/Kkwaenggwari/Kkwaenggwari_8.wav",
+  "Kkwaenggwari": "sounds/Kkwaenggwari/Kkwaenggwari_9_4.wav",
+
+  "Voice": "sounds/Voice/Chu-imsaebyJeongSunim_11.wav",
+  "Voice": "sounds/Voice/Chu-imsaebyJeongSunim_12.wav",
+  "Voice": "sounds/Voice/Chu-imsaebyJeongSunim_8.wav",
+  "Voice": "sounds/Voice/Chu-imsaebyKangHyoju_9.wav",
+  "Voice": "sounds/Voice/Chu-imsaebyLeeChunhui_17.wav"
+}
