@@ -1,8 +1,13 @@
 {
   "_base": "https://raw.githubusercontent.com/ywn-jng/sounds/main/",
-
+  
+  "Chuk": [
+    "Chuk/Chuk_1.wav"
+],
+  
   "Haegeum": [
     "Haegeum/Haegeum_18.wav",
+    "Haegeum/Haegeum_18_1.wav"
     "Haegeum/Haegeum_19.wav",
     "Haegeum/Haegeum_3.wav",
     "Haegeum/Haegeum_9.wav"
@@ -36,7 +41,11 @@
     "Voice/Chu-imsaebyJeongSunim_12.wav",
     "Voice/Chu-imsaebyJeongSunim_8.wav",
     "Voice/Chu-imsaebyKangHyoju_9.wav",
-    "Voice/Chu-imsaebyLeeChunhui_17.wav"
+    "Voice/Chu-imsaebyLeeChunhui_17.wav",
     "Voice/Shaman(Soundly).wav"
+  ],
+
+  "Yonggo": [
+    "Yonggo/Yonggo_1.wav"
   ]
 }
